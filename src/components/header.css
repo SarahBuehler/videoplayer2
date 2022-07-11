@@ -1,0 +1,15 @@
+header {
+  font-size: xx-large;
+  font-family: monospace;
+  min-height: 20rem;
+  margin: 1rem;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+
+  gap: 3rem;
+  margin-right: 3rem;
+}

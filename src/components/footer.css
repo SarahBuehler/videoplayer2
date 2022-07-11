@@ -1,0 +1,8 @@
+footer {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+  font-family: monospace;
+  height: 10rem;
+  align-items: flex-end;
+}
